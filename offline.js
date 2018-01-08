@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1515427089,
+	"version": 1515428565,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -44,6 +44,7 @@
 		"images/black-sheet0.png",
 		"images/loadscreen-sheet0.png",
 		"images/loadbar-sheet0.png",
+		"images/titlebg-sheet0.png",
 		"media/intromusic.ogg",
 		"media/clicksound.ogg",
 		"media/portal.ogg",
